@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("fundo2.jpg");
+    background-size: cover;
+}
+
+.name {
+    color: white;
+    position: relative;
+    top: 35vh;
+    left: 50vh;
+}
+
+.img {
+    height: 50vh;
+    position: relative;
+    left: 110vh;
+    top: 10vh;
+}
+
+.text {
+    color: white;
+    position: relative;
+    left: 50vh;
+    top: 40vh;
+
+}
+
+.rodape {
+    height: 30vh;
+}
+
+.Direitos {
+    color: white;
+    position: relative;
+    top: 30vh;
+    text-align: center;
+}
